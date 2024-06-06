@@ -1,0 +1,48 @@
+.card-colaborador{
+    width: 280px;
+    margin-bottom: 24px; 
+    position: relative;
+}
+
+.encabezado{
+    background-color: red;
+    border-radius: 10px 10px 0 0;
+    max-height: 91px;
+}
+
+.encabezado img{
+    width: 110px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -40px;
+}
+
+.info{
+    background-color: #fff;
+    box-shadow: 5px 5px 15px rgba(0,0,0,0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.info h4{   
+    color: #6278F7;
+    font-weight: 600;
+    font-size: 18px;
+    
+}
+
+.info h5{
+    color: #212121;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn-eliminar{
+    position: absolute;
+    right: 10px;
+    top: 8px;
+    cursor: pointer;
+}
+

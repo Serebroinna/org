@@ -1,0 +1,18 @@
+footer{
+    background-color: #6278F7;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 75px;
+    color: #fff;
+    font-family: "Montserrat", sans-serif;
+}
+
+footer strong{
+    font-weight: 200;
+}
+
+.redes{
+    display: flex;
+    gap: 1rem;
+}
