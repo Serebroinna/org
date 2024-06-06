@@ -65,7 +65,7 @@ function App() {
     {
       id: uuid(),
       equipo: "Front-end",
-      imagen: "https://guadalajara.gob.mx/gdlWeb/assets/organigrama/Karina%20Anaid.jpg",
+      imagen: "https://github.com/Serebroinna.png",
       nombre: "Ivan Beltran",
       puesto: "Frontend developer jr",
       fav: true
